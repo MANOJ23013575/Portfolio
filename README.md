@@ -1,5 +1,6 @@
 # portfolio
 ###
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -80,7 +81,7 @@
     </div>
     <div class="container">
         <div class="profile">
-            <img src="1700725850832.jpg" alt="Profile Photo">
+            <img src="1700725850843.jpg" alt="Profile Photo">
             <h1>Manoj</h1>
             <p>Web Developer | Designer | Freelancer</p>
         </div>
